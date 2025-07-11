@@ -13,6 +13,12 @@
 .common-color{
     color: #4E47FF;
 }
+
+.section-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
 .primary-btn{
     background-color: #4E47FF;
     color: white;
@@ -51,3 +57,22 @@ nav{
 .second-btn{
     margin: 37px 633px 152px;
 }
+
+.action{
+    max-width: 1140px;
+    height: 328px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.section-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.para1{
+    margin: 23px 0;
+}
+
