@@ -23,6 +23,10 @@
     padding: 12px 36px;
 }
 
+.header{
+    background-image: url('Assets/Hero-bg.png');
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -31,8 +35,19 @@ nav{
 }
 
 .nav-title{
-    font-weight: black;
-    font-size: 34px;
-    
-    
+    font-weight: bolder;
+    font-size: 34px;   
+}
+
+.banner-content{
+    margin: 150px 267.5px 0px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+}
+.second-btn{
+    margin: 37px 633px 152px;
 }
