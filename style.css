@@ -181,3 +181,27 @@ footer textarea{
     margin-bottom: 20px;
     border: none;
 }
+.last-section{
+    margin: 0 auto;
+    max-width: 1440px;
+    height: 428px;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+.last-title{
+    color: #4E47FF;
+    font-size: 100px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+}
+.link{
+    display: flex;
+    gap: 48px;
+}
