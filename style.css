@@ -142,3 +142,42 @@ main h4{
 .cards h5{
     font-family: sans-serif;
 }
+
+/* footer styles */
+
+.inside{
+    margin: 0 auto;
+    max-width: 1140px;
+    height: 632px;
+    background-color: #D6DDED;
+    padding: 20px 150px;
+    display: flex;
+    gap: 115px;
+    align-items: center;
+    /* justify-content: space-around; */
+}
+.inside-title{
+    font-size: 93px;
+    font-weight: bold;
+}
+footer input[type="text"], footer input[type="email"]
+{
+    height: 25px;
+    width: 100%;
+    border-radius: 5px;
+    background-color:white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border: none;
+}
+footer textarea{
+     height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    background-color:white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border: none;
+}
