@@ -200,6 +200,14 @@ footer ul li{
 }
 footer ul li a{
     text-decoration: none;
+    color: #8987A1;
+}
+a:hover{
+    background-color: yellowgreen;
+    color: yellow;
+}
+.last-subtitle{
+    color: #8987A1;
 }
 .link{
     display: flex;
